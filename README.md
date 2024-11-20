@@ -6,6 +6,9 @@ Nackademin ht 16 - vt18
 
 Add/see chrome extension: https://chrome.google.com/webstore/detail/n%C3%A4ringsber%C3%A4knaren/emhfohfefkhakccjnfpfcmikoeaanhgn
 
+![Screenshot 2024-11-20 at 15 34 41](https://github.com/user-attachments/assets/3671054a-bae7-4d5c-b5b4-5ba7b2ab5019)
+
+
 see also the repo for processing of data: https://github.com/ninasjoberg/examensarbete_data
 
 
